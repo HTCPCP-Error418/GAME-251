@@ -1,2 +1,59 @@
 # GAME-251
 GitHub Pages site containing assignments for GAME 251 to serve as a portfolio for the final assignment.
+
+## TODO:
+	- [ ] Home:
+		- [ ] Add Assignment 1 description
+		- [ ] Add Assignment 2 description
+		- [ ] Add Assignment 3 description
+		- [ ] Add Assignment 4 description
+		- [ ] Add Assignment 5 description
+		- [ ] Add Assignment 6 description
+	- [ ] Assignment 1:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
+	- [ ] Assignment 2:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
+	- [ ] Assignment 3:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
+	- [ ] Assignment 4:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
+	- [ ] Assignment 5:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
+	- [ ] Assignment 6:
+		- [ ] Update `<head>`
+		- [ ] Update `<header>`
+		- [ ] Update Nav Block
+		- [ ] Add Assignment Prompt Summary
+		- [ ] Add Assignment
+		- [ ] Add Visual Element
+		- [ ] Add Design Notes and Reflection
