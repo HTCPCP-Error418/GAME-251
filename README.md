@@ -3,57 +3,57 @@ GitHub Pages site containing assignments for GAME 251 to serve as a portfolio fo
 
 ## TODO:
 	- [ ] Home:
-		- [ ] Add Assignment 1 description
-		- [ ] Add Assignment 2 description
-		- [ ] Add Assignment 3 description
+		- [x] Add Assignment 1 description
+		- [x] Add Assignment 2 description
+		- [x] Add Assignment 3 description
 		- [ ] Add Assignment 4 description
 		- [ ] Add Assignment 5 description
 		- [ ] Add Assignment 6 description
 	- [ ] Assignment 1:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
 	- [ ] Assignment 2:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
 	- [ ] Assignment 3:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
 	- [ ] Assignment 4:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
 	- [ ] Assignment 5:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
 	- [ ] Assignment 6:
-		- [ ] Update `<head>`
-		- [ ] Update `<header>`
-		- [ ] Update Nav Block
-		- [ ] Add Assignment Prompt Summary
+		- [x] Update `<head>`
+		- [x] Update `<header>`
+		- [x] Update Nav Block
+		- [x] Add Assignment Prompt Summary
 		- [ ] Add Assignment
 		- [ ] Add Visual Element
 		- [ ] Add Design Notes and Reflection
